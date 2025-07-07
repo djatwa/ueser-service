@@ -142,5 +142,5 @@ Tests cover normal operation and exceptional cases for all endpoints and busines
 
 ## Author
 
-- [Your Name or Team]
+- Dinesh Jatwa
 - GitHub: [djatwa](https://github.com/djatwa)
