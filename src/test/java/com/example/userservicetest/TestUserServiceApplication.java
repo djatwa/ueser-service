@@ -1,4 +1,4 @@
-package com.example.userservice;
+package com.example.userservicetest;
 
 import com.example.UserServiceApplication;
 import org.springframework.boot.SpringApplication;
